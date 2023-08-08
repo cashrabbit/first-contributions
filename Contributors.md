@@ -37,6 +37,7 @@
 -  [Abdulhakeem Abdulazeez](https://github.com/blaqhakym/)
 -  [Rajesh Jain](https://github.com/rajeshcjain)
 -  [Emin] (https://github.com/Backooo)
+-  [Zack Esco] (https://github.com/cashrabbit)
 -  [LJ](https://github.com/ljolly30)
 -  [Gaurav Singh](https://github.com/gauravsingh-code)
 -  [Sai](https://github.com/sai-krishna-git)
